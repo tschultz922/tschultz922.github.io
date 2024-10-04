@@ -1,7 +1,7 @@
 # tschultz922.github.io
 TSchultz GitHub Pages
 
-```mermaid
+<div class="mermaid">
 timeline
     title History of Social Media Platform
     2002 : LinkedIn
@@ -9,4 +9,4 @@ timeline
          : Google
     2005 : Youtube
     2006 : Twitter
-```
+</div>
